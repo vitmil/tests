@@ -5,3 +5,5 @@ def myFunc(p1: str) -> None :
   
 print("Hello Demo")
 print(sys.version)
+
+myFunc("param_1")
