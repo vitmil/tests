@@ -1,2 +1,3 @@
 import platform
-print(platform.node())
+hostname = platform.node()
+print(f"Hostname: {hostname}")
